@@ -1,0 +1,14 @@
+
+How to load things to an existing git project
+
+1. git add -A
+2. git commit -am"little identifing message maybe a date"
+3. git push
+
+How to load things to a new git project
+
+1. git init
+2. git add -A
+3. git commit -am"little identifing message maybe a date"
+4. git remote add origin https://github.com/ayersanth/"NAME".git
+5. git push -u origin master

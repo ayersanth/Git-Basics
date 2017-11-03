@@ -1,4 +1,7 @@
+
+
 How to clone the foundation coding from Git
+
 
 get to the foundation coding page
 click on clone or download and copy the link
@@ -6,7 +9,10 @@ go to terminal
 go to desktop
 git clone https://github.com/veratechnz/yoobee-foundation-coding.git
 
+
 and to update an already cloned repo use
+
+
 git pull https://github.com/veratechnz/yoobee-foundation-coding.git
 
 

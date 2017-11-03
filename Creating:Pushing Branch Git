@@ -1,0 +1,21 @@
+Go to your master file
+
+git branch
+git branch friday-slides   ****creating your branch****
+git checkout friday-slides   ****go to your branch****
+git branch    ****check to see that you're on the right branch****
+
+****alter your branch****
+****commit changes****
+
+git add -A
+git commit -am""
+
+****merge and push to repo****
+
+git checkout master
+git branch
+git merge friday-slides
+git add -A
+git commit -am""
+git push
